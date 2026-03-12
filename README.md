@@ -45,3 +45,10 @@
 ```bash
 git clone https://github.com/yourusername/PLAPS-CPP.git
 cd PLAPS-CPP
+```
+
+### Compile (C++11 required)
+g++ -std=c++11 -o plaps *.cpp
+
+### Run
+./plaps
